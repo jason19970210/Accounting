@@ -7,8 +7,8 @@ Teacher : 王寬裕
 >> E = A - L
 
 ## 借貸原則 Debit / Credit Principle
-- Debit : 
-- Credit : 
+- 借項 Debit : 資產、費用
+- 貸項 Credit : 
 
 
 借 資產 <br/>
@@ -36,6 +36,9 @@ Teacher : 王寬裕
 #### 紀錄方式
 >{ cash 100 <br/>
     ........... bank owner 100}
+
+
+    
 ###### 註
 1. 財務結構 / 財務狀況
 2. 應收帳款 => A/R -> Assets
