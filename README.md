@@ -3,8 +3,8 @@
 Teacher : 王寬裕
 
 ## 會計方程式 Accounting Equation
->> Assets (資產) = Liabilities (負債)(外來資金) + Equity (淨值, 權益, 產權)(自有資金)
->>> E = A - L
+> Assets (資產) = Liabilities (負債)(外來資金) + Equity (淨值, 權益, 產權)(自有資金)
+>> E = A - L
 
 ## 借貸原則 Debit / Credit Principle
 ### 符號
