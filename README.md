@@ -7,8 +7,9 @@ Teacher : 王寬裕
 >>> E = A - L
 
 ## 借貸原則 Debit / Credit Principle
-> 符號 	+借 Dr.
-		+貸 Cr.
+> 符號
++借 Dr.
++貸 Cr.
 
 
 
