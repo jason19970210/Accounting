@@ -11,6 +11,11 @@ Teacher : 王寬裕
 - 借 Dr.
 - 貸 Cr.
 
+## 衡量原則
+### 歷史成本原則 Historical Cost Principle
+
+
+### 公允價值原則 Fair Value Principle
 
 
 ###### 註
