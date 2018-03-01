@@ -9,7 +9,7 @@ Teacher : 王寬裕
 ## 借貸原則 Debit / Credit Principle
 ### 符號
 - 借 Dr.
- - 貸 Cr.
+- 貸 Cr.
 
 ## 衡量原則
 ### 歷史成本原則 Historical Cost Principle
