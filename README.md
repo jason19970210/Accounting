@@ -10,6 +10,10 @@ Teacher : 王寬裕
 - Debit : 
 - Credit : 
 
+
+借 資產
+貸 金流
+
 ### 符號
 - 借 Dr.
 - 貸 Cr.
