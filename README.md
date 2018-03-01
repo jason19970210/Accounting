@@ -8,10 +8,12 @@ Teacher : 王寬裕
 
 ## 借貸原則 Debit / Credit Principle
 ### 符號
-> 借 Dr.
-> 貸 Cr.
+- 借 Dr.
+- 貸 Cr.
 
 
 
 ###### 註
 1. 財務結構 / 財務狀況
+2. 應收帳款 => A/R -> Assets
+3. 應付帳款 => A/P -> Liabilities
