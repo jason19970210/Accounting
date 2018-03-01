@@ -3,7 +3,7 @@
 Teacher : 王寬裕
 
 ## 會計方程式 Accounting Equation
->> Assets (資產) = Liabilities (負債) + Equity (淨值, 權益, 產權)
+>> Assets (資產) = Liabilities (負債)(外來資金) + Equity (淨值, 權益, 產權)(自有資金)
 >>> E = A - L
 
 ## 借貸原則 Debit / Credit Principle
@@ -27,8 +27,8 @@ Teacher : 王寬裕
 ----
 
 #### 紀錄方式
-{	cash 100 
-		bank owner 100	}
+{ cash 100
+........... bank owner 100}
 ###### 註
 1. 財務結構 / 財務狀況
 2. 應收帳款 => A/R -> Assets
