@@ -33,7 +33,7 @@ FB : 106學年度長庚資管會計學(甲班)
 > Assets (資產) = Liabilities (負債)(外來資金) + Equity (淨值, 權益, 產權)(自有資金)
 >> E = A - L
 
-Assets: 
+Assets: Cash、Accounts Receivable、Inventory、Supplies、Prepaid Insurnace、Land、Buildings、Equipment
 liabilities: 應付帳款、應付票據(銀行借款)、應付薪資帳款{借現金, 貸應付薪資帳款}
 Equity: 股本(Share Capital)、收入(credit)-成本費用(debit)
 
@@ -82,6 +82,18 @@ ex. 餐廳訂桌 總金額 $6000<br/>
 
 借 銷管費用 5000
 				貸 
+
+
+
+
+** 買保單(兩年保)
+第一年：
+借 prepaid insurance
+				貸 cash
+
+第二年：
+借 insurance cost
+				貸 prepaid insurance
 ```
 
 
@@ -145,7 +157,7 @@ Journal(日記帳)  >> Posting(過帳) >>  Ladger(分類帳)
 1. 財務結構 / 財務狀況
 2. 應收帳款 => A/R -> Assets
 3. 應付帳款 => A/P -> Liabilities
-4. 預付保險費
+4. 預付保險費(Prepaid Insurance)
 5. 分錄 => Entry
 6. 銷貨毛利：銷貨收入-銷貨成本
 7. 淨利：Net Income
