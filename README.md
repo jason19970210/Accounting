@@ -1,12 +1,13 @@
 # Accounting
 
-Teacher : 王寬裕
-TA : 黃瑀柔
-> Email: tsuzidou
+Teacher : 王寬裕  
+TA : 黃瑀柔  
+> Email: tsuzidou  
 FB : 106學年度長庚資管會計學(甲班)
 
 ## 會計之定義
-一種資訊系統，經過一定的程序，提供企業財務資訊，協助決策者進行判斷與決策。程序包含辨認、衡量、紀錄、分類、彙總、分析與溝通等程序。
+一種資訊系統，經過一定的程序，提供企業財務資訊，協助決策者進行判斷與決策。  
+程序包含辨認、衡量、紀錄、分類、彙總、分析與溝通等程序。
 
 #### 會計基本假設
 1. 企業個體假設
@@ -33,8 +34,8 @@ FB : 106學年度長庚資管會計學(甲班)
 > Assets (資產) = Liabilities (負債)(外來資金) + Equity (淨值, 權益, 產權)(自有資金)
 >> E = A - L
 
-Assets: Cash、Accounts Receivable、Inventory、Supplies、Prepaid Insurnace、Land、Buildings、Equipment
-liabilities: 應付帳款、應付票據(銀行借款)、應付薪資帳款{借現金, 貸應付薪資帳款}
+Assets: Cash、Accounts Receivable、Inventory、Supplies、Prepaid Insurnace、Land、Buildings、Equipment  
+liabilities: 應付帳款、應付票據(銀行借款)、應付薪資帳款{借現金, 貸應付薪資帳款}  
 Equity: 股本(Share Capital)、收入(credit)-成本費用(debit)
 
 ## 借貸原則 Debit / Credit Principle
