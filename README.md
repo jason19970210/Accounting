@@ -34,9 +34,9 @@ FB : 106學年度長庚資管會計學(甲班)
 > Assets (資產) = Liabilities (負債)(外來資金) + Equity (淨值, 權益, 產權)(自有資金)
 >> E = A - L
 
-Assets: Cash、Accounts Receivable、Inventory、Supplies、Prepaid Insurnace、Land、Buildings、Equipment  
-liabilities: 應付帳款、應付票據(銀行借款)、應付薪資帳款{借現金, 貸應付薪資帳款}、Notes Payable、Accounts Payable、Salaries & Wages Payable、Interest Payable、unearned Service Revenue  
-Equity: 股本(Share Capital)、收入(credit)-成本費用(debit)
++ Assets: Cash、Accounts Receivable、Inventory、Supplies、Prepaid Insurnace、Land、Buildings、Equipment  
++ Liabilities: 應付帳款、應付票據(銀行借款)、應付薪資帳款{借現金, 貸應付薪資帳款}、Notes Payable、Accounts Payable、Salaries & Wages Payable、Interest Payable、unearned Service Revenue  
++ Equity: 股本(Share Capital)、收入(credit)-成本費用(debit)
 
 ## 借貸原則 Debit / Credit Principle
 - 借項 Debit : 資產、費用
