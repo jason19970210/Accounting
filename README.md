@@ -1,10 +1,16 @@
 # Accounting
 
 Teacher : 王寬裕
+TA : 
+FB : 106學年度長庚資管會計學(甲班)
 
 ## 會計方程式 Accounting Equation
 > Assets (資產) = Liabilities (負債)(外來資金) + Equity (淨值, 權益, 產權)(自有資金)
 >> E = A - L
+
+Assets: 
+liabilities: 應付帳款、應付票據(銀行借款)、應付薪資帳款{借現金, 貸應付薪資帳款}
+Equity: 股本(Share Capital)、收入(credit)-成本費用(debit)
 
 ## 借貸原則 Debit / Credit Principle
 - 借項 Debit : 資產、費用
@@ -14,20 +20,22 @@ Teacher : 王寬裕
 借 資產 <br/>
 貸 金流
 
-
-ex. 餐廳訂桌 總金額 $6000<br>
+```
+ex. 餐廳訂桌 總金額 $6000<br/>
 買方：預付訂金 $3000
 	借 	預付訂金 	$3000	要求 -> 資產
 	貸 	現金    	$3000
 
 賣方：餐廳會計紀錄 收訂金 $3000
-	借 	現金		$3000
-	貸 	預收訂金	$3000	
+	借 	現金		$3000  
+	貸 	預收訂金	$3000
 
 
-- 公司：借 cash(現金) <br/> 貸 capital(資本)
-- 個人：借 投資 貸 現金
-
+- 公司：	借 cash(現金)
+		貸 capital(資本)
+- 個人：	借 投資
+		貸 現金
+```
 
 ### 符號
 - 借 Dr.
@@ -58,3 +66,4 @@ ex. 餐廳訂桌 總金額 $6000<br>
 1. 財務結構 / 財務狀況
 2. 應收帳款 => A/R -> Assets
 3. 應付帳款 => A/P -> Liabilities
+4. 預付保險費
