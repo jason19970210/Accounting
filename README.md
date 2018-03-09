@@ -36,7 +36,17 @@ FB : 106學年度長庚資管會計學(甲班)
 
 + Assets: Cash、Accounts Receivable、Inventory、Supplies、Prepaid Insurnace、Land、Buildings、Equipment  
 + Liabilities: 應付帳款、應付票據(銀行借款)、應付薪資帳款{借現金, 貸應付薪資帳款}、Notes Payable、Accounts Payable、Salaries & Wages Payable、Interest Payable、unearned Service Revenue  
-+ Equity: 股本(Share Capital)、收入(credit)-成本費用(debit)
++ Equity: 股本(Share Capital)、收入(credit)-成本費用(debit)、Share Capital Ordinary、Retained Earning、Dividends
+
++ Revenues (Credit)
++ Cost and Expense (Debits)
+	+ Cost of goods sold
+	+ Operating Expenses
+		+ Freight-Out
+		+ Rent Expense
+		+ Salaries and Waged Expense
+		+ Utilities Expense
+		+ Insurance Expense
 
 ## 借貸原則 Debit / Credit Principle
 - 借項 Debit : 資產、費用
@@ -162,3 +172,4 @@ Journal(日記帳)  >> Posting(過帳) >>  Ladger(分類帳)
 5. 分錄 => Entry
 6. 銷貨毛利：銷貨收入-銷貨成本
 7. 淨利：Net Income
+8. 售出前的所有花費都會被分類到存貨管理成本
