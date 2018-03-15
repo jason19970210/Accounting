@@ -38,7 +38,7 @@ FB : 106學年度長庚資管會計學(甲班)
 
 
 + Assets: Cash、Accounts Receivable(應收帳款)、Inventory(存貨)、Supplies、Prepaid Insurnace(預付保險金)、Land、Buildings、Equipment  
-+ Liabilities: 應付帳款、應付票據(銀行借款)、應付薪資帳款{借現金, 貸應付薪資帳款}、Notes Payable、Accounts Payable、Salaries & Wages Payable(應付薪資費用)、Interest Payable、Ｕnearned Service Revenue(應收服務收入)  
++ Liabilities: Accounts Payable(應付帳款)、應付票據(銀行借款)、應付薪資帳款{借現金, 貸應付薪資帳款}、Notes Payable、Salaries & Wages Payable(應付薪資費用)、Interest Payable、Ｕnearned Service Revenue(應收服務收入)  
 + Equity: 股本(Share Capital)、收入(Credit)-成本費用(Debit)、Share Capital Ordinary、Retained Earning(保留盈餘/累積盈餘)、Dividends(股利、紅利)
 
 + Revenues (Credit)
@@ -153,6 +153,12 @@ Journal(日記帳)  >> Posting(過帳) >>  Ladger(分類帳)
 ### 公允價值原則 Fair Value Principle
 
 
+
+### 報表
++ 資產負債表 / 財務狀況表 (平衡表 Balance Sheet)
+	+ 資產 & 負債
+	+ Cash 應歸類至此報表
++ 綜合損益表
 ----
 #### 會計資訊使用者
 + 內部使用者 : 企業管理階層、員工等
@@ -166,7 +172,6 @@ Journal(日記帳)  >> Posting(過帳) >>  Ladger(分類帳)
     ........... bank owner 100}
 
 
-
 ###### 註
 1. 財務結構 / 財務狀況
 2. 應收帳款 => A/R -> Assets
@@ -176,3 +181,5 @@ Journal(日記帳)  >> Posting(過帳) >>  Ladger(分類帳)
 6. 銷貨毛利：銷貨收入-銷貨成本
 7. 淨利：Net Income
 8. 售出前的所有花費都會被分類到存貨管理成本
+9. IFRS : International Financial Report Standard 國際財務報表準則
+10. GAAP : Generally Accepted Accounting Principles 一般公認會計原則
