@@ -37,8 +37,13 @@ FB : 106學年度長庚資管會計學(甲班)
 >> 左：Ｄebit / 右：Credit
 
 
-+ Assets: Cash、Accounts Receivable(應收帳款)、Inventory(存貨)、Supplies(辦公用具)、Prepaid Insurnace(預付保險金)、Land、Buildings、Equipment  
-+ Liabilities: Accounts Payable(應付帳款)、應付票據(銀行借款)、應付薪資帳款{借現金, 貸應付薪資帳款}、Notes Payable、Salaries & Wages Payable(應付薪資費用)、Interest Payable、Ｕnearned Service Revenue(應收服務收入)  
++ Assets: Cash、Accounts Receivable(應收帳款)、Inventory(存貨)、Supplies(辦公用具)、Prepaid Insurnace(預付保險金)、Land、Buildings、Equipment
+	+ Non-Current Assets
+	+ Current Assets
++ Liabilities: Accounts Payable(應付帳款)、應付票據(銀行借款)、應付薪資帳款{借現金, 貸應付薪資帳款}、Notes Payable、Salaries & Wages Payable(應付薪資費用)、Interest Payable、Ｕnearned Service Revenue(應收服務收入)
+	+ Equity
+	+ Non-Current Liabilities
+	+ Current Liabilities
 + Equity: 股本(Share Capital)、收入(Credit)-成本費用(Debit)、Retained Earning(保留盈餘/累積盈餘)、Dividends(股利、紅利)
 > Share Capital Ordinary 普通股
 
