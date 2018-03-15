@@ -33,10 +33,13 @@ FB : 106學年度長庚資管會計學(甲班)
 ## 會計方程式 Accounting Equation
 > Assets (資產) = Liabilities (負債)(外來資金) + Equity (淨值, 權益, 產權)(自有資金)
 >> E = A - L
+> Debits = Credits
+>> 左：Ｄebit / 右：Credit
 
-+ Assets: Cash、Accounts Receivable、Inventory、Supplies、Prepaid Insurnace、Land、Buildings、Equipment  
-+ Liabilities: 應付帳款、應付票據(銀行借款)、應付薪資帳款{借現金, 貸應付薪資帳款}、Notes Payable、Accounts Payable、Salaries & Wages Payable、Interest Payable、unearned Service Revenue  
-+ Equity: 股本(Share Capital)、收入(credit)-成本費用(debit)、Share Capital Ordinary、Retained Earning、Dividends
+
++ Assets: Cash、Accounts Receivable(應收帳款)、Inventory(存貨)、Supplies、Prepaid Insurnace(預付保險金)、Land、Buildings、Equipment  
++ Liabilities: 應付帳款、應付票據(銀行借款)、應付薪資帳款{借現金, 貸應付薪資帳款}、Notes Payable、Accounts Payable、Salaries & Wages Payable(應付薪資費用)、Interest Payable、Ｕnearned Service Revenue(應收服務收入)  
++ Equity: 股本(Share Capital)、收入(Credit)-成本費用(Debit)、Share Capital Ordinary、Retained Earning(保留盈餘/累積盈餘)、Dividends(股利、紅利)
 
 + Revenues (Credit)
 + Cost and Expense (Debits)
@@ -50,7 +53,7 @@ FB : 106學年度長庚資管會計學(甲班)
 
 ## 借貸原則 Debit / Credit Principle
 - 借項 Debit : 資產、費用
-- 貸項 Credit : 
+- 貸項 Credit  
 
 
 借 資產 <br/>
