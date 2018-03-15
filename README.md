@@ -37,9 +37,10 @@ FB : 106學年度長庚資管會計學(甲班)
 >> 左：Ｄebit / 右：Credit
 
 
-+ Assets: Cash、Accounts Receivable(應收帳款)、Inventory(存貨)、Supplies、Prepaid Insurnace(預付保險金)、Land、Buildings、Equipment  
++ Assets: Cash、Accounts Receivable(應收帳款)、Inventory(存貨)、Supplies(辦公用具)、Prepaid Insurnace(預付保險金)、Land、Buildings、Equipment  
 + Liabilities: Accounts Payable(應付帳款)、應付票據(銀行借款)、應付薪資帳款{借現金, 貸應付薪資帳款}、Notes Payable、Salaries & Wages Payable(應付薪資費用)、Interest Payable、Ｕnearned Service Revenue(應收服務收入)  
-+ Equity: 股本(Share Capital)、收入(Credit)-成本費用(Debit)、Share Capital Ordinary、Retained Earning(保留盈餘/累積盈餘)、Dividends(股利、紅利)
++ Equity: 股本(Share Capital)、收入(Credit)-成本費用(Debit)、Retained Earning(保留盈餘/累積盈餘)、Dividends(股利、紅利)
+> Share Capital Ordinary 普通股
 
 + Revenues (Credit)
 + Cost and Expense (Debits)
@@ -48,7 +49,7 @@ FB : 106學年度長庚資管會計學(甲班)
 		+ Freight-Out
 		+ Rent Expense
 		+ Salaries and Waged Expense
-		+ Utilities Expense
+		+ Utilities Expense(水電費)
 		+ Insurance Expense
 
 ## 借貸原則 Debit / Credit Principle
@@ -110,6 +111,25 @@ ex. 餐廳訂桌 總金額 $6000<br/>
 				貸 prepaid insurance
 ```
 
+```
+公司宣布發放股利
+
+借：Dividends
+貸：Dividends Payable
+
+實際發放股利
+借：Dividends Payable
+貸：Cash
+
+簡略：
+借：Dividends
+貸：Cash
+
+
+-> 借：Retained Earning
+-> 貸：Dividends
+
+```
 
 ### T帳戶：分類帳
 
@@ -182,3 +202,9 @@ ex. 餐廳訂桌 總金額 $6000<br/>
 8. 售出前的所有花費都會被分類到存貨管理成本
 9. IFRS : International Financial Report Standard 國際財務報表準則
 10. GAAP : Generally Accepted Accounting Principles 一般公認會計原則
+11. 股本：普通股、特別股(優先享有股利分配)
+12. OCI Other Comprehensive Income  其他綜合損益
+
+Exercise : 1-5、1-15(p.40)、2-1(p.82)、{2-2、2-3}
+
+### 中英對照表
