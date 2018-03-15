@@ -121,6 +121,7 @@ ex. 餐廳訂桌 總金額 $6000<br/>
 1. Source Document 原始憑證
 2. Bookkeeping Voucher 會計/記帳憑證
 3. Journal 日記帳
+> Journal **Post (過帳)** to Ladger
 4. Ladger 分類帳
 5. Unadjusted Trial Balance
 6. Adjusting Entries
@@ -128,8 +129,6 @@ ex. 餐廳訂桌 總金額 $6000<br/>
 8. Preparing Financial Statement
 9. CLosing Entries
 10. Post-Closing Entries Trial Balance
-
-Journal(日記帳)  >> Posting(過帳) >>  Ladger(分類帳)
 
 ## 營運循環
 1. Cash
