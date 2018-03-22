@@ -187,13 +187,16 @@ ex. 餐廳訂桌 總金額 $6000<br/>
 #### 會計資訊使用者
 + 內部使用者 : 企業管理階層、員工等
 + 外部使用者 : 投資人、債權人、主管機關等
-
-
 ----
 
+#### 比率 Ratio
+1. 流動比率 Current Ratio = 流動資產 / 流動負債 (Current Assets / Current Liabilities)
+2. 負債對權益比率 Total Debt to Equity = Total Liabilities / Shareholders Equilty (銀行稱之負債比率)
+> Total Debt to Assets 負債比率 = Total Liabilities / Total Assets
+3. 淨利率 Net Profit Margin = Net Income / Sales
+
+
 #### 紀錄方式
->cash .................... 100 <br/>
-......... bank owner ........ 100
 
 ![6](https://raw.githubusercontent.com/jason19970210/MarkdownPhotos/master/6.png)
 
@@ -210,7 +213,11 @@ ex. 餐廳訂桌 總金額 $6000<br/>
 10. GAAP : Generally Accepted Accounting Principles 一般公認會計原則
 11. 股本：普通股、特別股(優先享有股利分配)
 12. OCI Other Comprehensive Income  其他綜合損益
+13. Margin 利潤
 
-Exercise : 1-5、1-15(p.40)、2-1(p.82)、{2-2、2-3}
+Exercise : 1-5、1-15(p.40)、2-1(p.82)、{2-2、2-3}、(p.43)、1-13(財務狀況表)、p.83、{2-3}(p.84)
+
+
+p43 return eraning $1520
 
 ### 中英對照表
