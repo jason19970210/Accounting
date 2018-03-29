@@ -136,6 +136,19 @@ ex. 餐廳訂桌 總金額 $6000<br/>
 
 ```
 
+**??**
+```
+遞延項目：
+服務性質
+Day 1
+借 Cash 10000
+貸 Unearned Service  10000
+
+Day 3
+借 Cash + Unearned Service 10000 + 20000
+貸 Prepaid Service Revenue  30000
+```
+
 ### T帳戶：分類帳
 
 ### 符號
