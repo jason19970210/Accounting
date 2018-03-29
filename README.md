@@ -40,7 +40,7 @@ FB : 106學年度長庚資管會計學(甲班)
 + Assets: Cash、Accounts Receivable(應收帳款)、Inventory(存貨)、Supplies(辦公用具)、Prepaid Insurnace(預付保險金)、Land、Buildings、Equipment
 	+ Non-Current Assets
 	+ Current Assets
-+ Liabilities: Accounts Payable(應付帳款)、應付票據(銀行借款)、應付薪資帳款{借現金, 貸應付薪資帳款}、Notes Payable、Salaries & Wages Payable(應付薪資費用)、Interest Payable、Ｕnearned Service Revenue(應收服務收入)
++ Liabilities: Accounts Payable(應付帳款)、Notes Payable 應付票據(銀行借款)、應付薪資帳款{借現金, 貸應付薪資帳款}、Salaries & Wages Payable(應付薪資費用)、Interest Payable、Ｕnearned Service Revenue(應收服務收入)
 	+ Equity
 	+ Non-Current Liabilities
 	+ Current Liabilities
@@ -189,7 +189,12 @@ Day 3
 
 ### 公允價值原則 Fair Value Principle
 
-
+### 會計資訊強化品質特性
+- 時效性 Timeliness
+	+ 年報
+	+ 半年報
+	+ 季報
+	+ 月報
 
 ### 報表
 + 資產負債表 / 財務狀況表 (平衡表 Balance Sheet)
@@ -246,10 +251,19 @@ Day 3
 
 
 16. Book Value (B.V.) 帳面價值
+17. accrued interest 應計利息
 
-Exercise : 1-5、1-15(p.40)、2-1(p.82)、{2-2、2-3}、(p.43)、1-13(財務狀況表)、p.83、{2-3}(p.84)、p.112、p.118
+Exercise : 1-5、1-15(p.40)、2-1(p.82)、{2-2、2-3}、(p.43)、1-13(財務狀況表)、p.83、{2-3}(p.84)、p.88、p.112、p.118、p.138(BE3-7、BE3-9)、p.140(DO3-2)、p.142(E3-7)
 
-
+* BE3-9 股本股票 不用計入net income 中
 p43 return eraning $1520
 
-### 中英對照表
+
+
+E3-7
+
+
+### 會計科目表整理
++ ### Assets
++ ### Liabilities
++ ### Equility
