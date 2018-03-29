@@ -195,6 +195,15 @@ ex. 餐廳訂桌 總金額 $6000<br/>
 > Total Debt to Assets 負債比率 = Total Liabilities / Total Assets
 3. 淨利率 Net Profit Margin = Net Income / Sales
 
+#### Types of Adjusting Entires 調整分錄 (p.105)
++ 遞延項目 Deferrals
+	+ Prepaid Expenses 預付費用
+	+ Unearned Revenues 預收收入
++ 應計項目 Accruals
+	+ Accrued Revenues 應收帳款
+	+ Accured Expenses 應付帳款
+
+
 
 #### 紀錄方式
 
@@ -214,6 +223,8 @@ ex. 餐廳訂桌 總金額 $6000<br/>
 11. 股本：普通股、特別股(優先享有股利分配)
 12. OCI Other Comprehensive Income  其他綜合損益
 13. Margin 利潤
+14. IFRS: 應計會計基礎(權責基礎)、現金會計基礎
+=> 認列
 
 Exercise : 1-5、1-15(p.40)、2-1(p.82)、{2-2、2-3}、(p.43)、1-13(財務狀況表)、p.83、{2-3}(p.84)
 
