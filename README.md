@@ -265,5 +265,22 @@ E3-7
 
 ### 會計科目表整理
 + ### Assets
+	+ Cash
+	+ Account Receivable
+	+ Supplies
+	+ Inventory
+	+ Prepaid Insurance
+	+ Interest Receivable
+	+ Land
+	+ Equipment
+	+ **Accumulated Depreciation**
 + ### Liabilities
-+ ### Equility
+	+ Notes Payable
+	+ Accounts Payable
+	+ Unearned Service Revenue
+	+ Salaries & Wages Payable
+	+ Interest Payable
+	+ Dividends Payable
+	+ Income Tax Payable
++ ### Equity
+	+ 
