@@ -257,6 +257,7 @@ Day 3
 
 17. accrued interest 應計利息
 18. Contra asset account = 抵銷帳戶 -> Accumulated Depreciation(p.108)
+19. Trial Balance 試算表
 
 Exercise : 1-5、1-15(p.40)、2-1(p.82)、{2-2、2-3}、(p.43)、1-13(財務狀況表)、p.83、{2-3}(p.84)、{2-1}(p.88)、p.112、p.118、p.138(BE3-7、BE3-9)、p.140(DO3-2)、p.142(E3-7)、p.144(E3-13)、p.144(E3-12)
 + **p.144(E3-13)** 
