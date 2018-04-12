@@ -276,6 +276,9 @@ IFRS Equitment -> Cash
 保留盈餘表 - 期初 : net income、dividend、retained earning
 diveident 位在 借項 Debit
 
+調整分錄
+-> 產生報表時處理 (依主管機關要求)
+
 
 ```
 
