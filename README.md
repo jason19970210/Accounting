@@ -256,11 +256,11 @@ Day 3
 18. Contra asset account = 抵銷帳戶 -> Accumulated Depreciation(p.108)
 
 Exercise : 1-5、1-15(p.40)、2-1(p.82)、{2-2、2-3}、(p.43)、1-13(財務狀況表)、p.83、{2-3}(p.84)、p.88、p.112、p.118、p.138(BE3-7、BE3-9)、p.140(DO3-2)、p.142(E3-7)
-**p144(E3-13)** 
-> Accounts Receivable $8800 to $10000 (+1200 @ Debit)
-> Service Revenue $34000 to $35200 (+1200 @ Credit)
-> .
-> 貸 Supplies $2300 to $700 (-1600)
+**p.144(E3-13)** 
+> Accounts Receivable $8800 to $10000 (+1200 @ Debit)  
+> Service Revenue $34000 to $35200 (+1200 @ Credit)  
+> .  
+> 貸 Supplies $2300 to $700 (-1600)  
 > 借 Supplies Expense $0 to $1600 (+1600)
 
 * BE3-9 股本股票 不用計入net income 中
