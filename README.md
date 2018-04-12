@@ -186,7 +186,6 @@ Day 3
 ## 衡量原則
 ### 歷史成本原則 Historical Cost Principle
 
-
 ### 公允價值原則 Fair Value Principle
 
 ### 會計資訊強化品質特性
@@ -255,13 +254,25 @@ Day 3
 17. accrued interest 應計利息
 18. Contra asset account = 抵銷帳戶 -> Accumulated Depreciation(p.108)
 
-Exercise : 1-5、1-15(p.40)、2-1(p.82)、{2-2、2-3}、(p.43)、1-13(財務狀況表)、p.83、{2-3}(p.84)、p.88、p.112、p.118、p.138(BE3-7、BE3-9)、p.140(DO3-2)、p.142(E3-7)
+Exercise : 1-5、1-15(p.40)、2-1(p.82)、{2-2、2-3}、(p.43)、1-13(財務狀況表)、p.83、{2-3}(p.84)、{2-1}(p.88)、p.112、p.118、p.138(BE3-7、BE3-9)、p.140(DO3-2)、p.142(E3-7)
 **p.144(E3-13)** 
 > Accounts Receivable $8800 to $10000 (+1200 @ Debit)  
 > Service Revenue $34000 to $35200 (+1200 @ Credit)  
 > .  
 > 貸 Supplies $2300 to $700 (-1600)  
 > 借 Supplies Expense $0 to $1600 (+1600)
+> . 
+> 借 1500
+> 貸 1500
+> .
+> 借 折舊費用 $1300
+> 貸 累積折舊 $1300
+> .
+> 借 Salaries & Wages Expense $1100
+> 貸 Salaries & Wages Pabale $1100
+> .
+> 借 Unearned Rent Revenue $700
+> 貸 Rent Revenue $700
 
 * BE3-9 股本股票 不用計入net income 中
 p43 return eraning $1520
