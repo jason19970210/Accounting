@@ -258,10 +258,26 @@ Exercise : 1-5、1-15(p.40)、2-1(p.82)、{2-2、2-3}、(p.43)、1-13(財務狀�
 * BE3-9 股本股票 不用計入net income 中
 p43 return eraning $1520
 
-
-
 E3-7
+```
+2018/04/12
 
+- 幫企業做會計
+	- 借 Cash 1000
+		- 貸 Share Capital 1000
+- 幫投資人做會計(交易分錄)
+	- 借 Investement 1000
+		- 貸 Cash 1000
+
+IFRS(歐洲) / 台灣分錄表結構與其順序問題
+IFRS Equitment -> Cash
+台灣 Cash -> Equitment
+
+保留盈餘表 - 期初 : net income、dividend、retained earning
+diveident 位在 借項 Debit
+
+
+```
 
 ### 會計科目表整理
 + ### Assets
@@ -276,7 +292,7 @@ E3-7
 	+ **Accumulated Depreciation**
 + ### Liabilities
 	+ Notes Payable
-	+ Accounts Payable
+	+ **_Accounts Payable_**
 	+ Unearned Service Revenue
 	+ Salaries & Wages Payable
 	+ Interest Payable
