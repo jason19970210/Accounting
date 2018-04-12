@@ -36,6 +36,8 @@ FB : 106學年度長庚資管會計學(甲班)
 > Debits = Credits
 >> 左：Ｄebit / 右：Credit
 
+
+
 ![13](https://raw.githubusercontent.com/jason19970210/MarkdownPhotos/master/13.jpg)
 
 
