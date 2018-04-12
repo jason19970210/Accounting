@@ -36,6 +36,8 @@ FB : 106學年度長庚資管會計學(甲班)
 > Debits = Credits
 >> 左：Ｄebit / 右：Credit
 
+![13](https://raw.githubusercontent.com/jason19970210/MarkdownPhotos/master/13.jpg)
+
 
 + Assets: Cash、Accounts Receivable(應收帳款)、Inventory(存貨)、Supplies(辦公用具)、Prepaid Insurnace(預付保險金)、Land、Buildings、Equipment
 	+ Non-Current Assets
@@ -259,7 +261,7 @@ Day 3
 18. Contra asset account = 抵銷帳戶 -> Accumulated Depreciation(p.108)
 19. Trial Balance 試算表
 
-Exercise : 1-5、1-15(p.40)、2-1(p.82)、{2-2、2-3}、(p.43)、1-13(財務狀況表)、p.83、{2-3}(p.84)、{2-1}(p.88)、p.112、p.118、p.138(BE3-7、BE3-9)、p.140(DO3-2)、p.142(E3-7)、p.144(E3-13)、p.144(E3-12)
+Exercise : 1-5、1-15(p.40)、2-1(p.82)、{2-2、2-3}、(p.43)、1-13(財務狀況表)、_2-10(p.83)_、2-3(p.84)、2-1(p.88)、**p.92(2-4B)**、p.112、p.118、p.138(BE3-7、BE3-9)、p.140(DO3-2)、p.142(E3-7)、p.144(E3-13)、p.144(E3-12)
 + **p.144(E3-13)** 
 > Accounts Receivable $8800 to $10000 (+1200 @ Debit)  
 > Service Revenue $34000 to $35200 (+1200 @ Credit)  
@@ -333,4 +335,9 @@ diveident 位在 借項 Debit
 	+ Dividends Payable
 	+ Income Tax Payable
 + ### Equity
-	+ 
+	+ Share Capital - Preference
+	+ Share Capital - Ordinary
+	+ Retained Earnings
+	+ **Dividends**
+	+ Income Summary
++ 
