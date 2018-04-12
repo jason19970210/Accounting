@@ -329,8 +329,8 @@ diveident 位在 借項 Debit
 	+ Equipment
 	+ **Accumulated Depreciation**
 + ### Liabilities
-	+ Notes Payable
 	+ **_Accounts Payable_**
+	+ Notes Payable
 	+ Unearned Service Revenue
 	+ Salaries & Wages Payable
 	+ Interest Payable
@@ -342,4 +342,21 @@ diveident 位在 借項 Debit
 	+ Retained Earnings
 	+ **Dividends**
 	+ Income Summary
-+ 
++ ### Revenue
+	+ Service Revenue
+	+ Sales Revenue
+	+ Sales Discounts
+	+ Sales Returns & Allowances
+	+ Interest Disposal of Plant Assets
++ ### Expenses
+	+ **Depreciation Expense**
+	+ Income Tax Expense
+	+ Insurance Expense
+	+ Interest Expense
+	+ Loss on Disposal of Plant Assets
+	+ Maintenance & Repairs Expense
+	+ Rent Exense
+	+ Salaries & Wages Expense
+	+ Selling Expenses
+	+ Supplies Expense
+	+ Utilities Expense
