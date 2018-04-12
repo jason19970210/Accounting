@@ -188,6 +188,10 @@ Day 3
 
 ### 公允價值原則 Fair Value Principle
 
+### Revenue & Expenses
+- Revenue Recognition Principle
+- Expense Recognition Principle (Matching Principle 配合原則)
+
 ### 會計資訊強化品質特性
 - 時效性 Timeliness
 	+ 年報
@@ -195,7 +199,7 @@ Day 3
 	+ 季報
 	+ 月報
 
-### 報表
+## 報表
 + 資產負債表 / 財務狀況表 (平衡表 Balance Sheet)
 	+ 資產 & 負債
 	+ Cash 應歸類至此報表
@@ -254,8 +258,8 @@ Day 3
 17. accrued interest 應計利息
 18. Contra asset account = 抵銷帳戶 -> Accumulated Depreciation(p.108)
 
-Exercise : 1-5、1-15(p.40)、2-1(p.82)、{2-2、2-3}、(p.43)、1-13(財務狀況表)、p.83、{2-3}(p.84)、{2-1}(p.88)、p.112、p.118、p.138(BE3-7、BE3-9)、p.140(DO3-2)、p.142(E3-7)
-**p.144(E3-13)** 
+Exercise : 1-5、1-15(p.40)、2-1(p.82)、{2-2、2-3}、(p.43)、1-13(財務狀況表)、p.83、{2-3}(p.84)、{2-1}(p.88)、p.112、p.118、p.138(BE3-7、BE3-9)、p.140(DO3-2)、p.142(E3-7)、p.144(E3-13)、p.144(E3-12)
++ **p.144(E3-13)** 
 > Accounts Receivable $8800 to $10000 (+1200 @ Debit)  
 > Service Revenue $34000 to $35200 (+1200 @ Credit)  
 > .  
@@ -274,7 +278,7 @@ Exercise : 1-5、1-15(p.40)、2-1(p.82)、{2-2、2-3}、(p.43)、1-13(財務狀�
 > 借 Unearned Rent Revenue $700
 > 貸 Rent Revenue $700
 
-* BE3-9 股本股票 不用計入net income 中
+* BE3-9 股本股票 不用計入 net income 中  
 p43 return eraning $1520
 
 E3-7
