@@ -249,11 +249,19 @@ Day 3
 借 折舊費用 (擺在**資產的減項**)
 貸 累計折舊
 
+16. Book Value (B.V.) 帳面價值(p.109)
+> The purpose of depreciation is not valuation but a means of cost allocation
 
-16. Book Value (B.V.) 帳面價值
 17. accrued interest 應計利息
+18. Contra asset account = 抵銷帳戶 -> Accumulated Depreciation(p.108)
 
 Exercise : 1-5、1-15(p.40)、2-1(p.82)、{2-2、2-3}、(p.43)、1-13(財務狀況表)、p.83、{2-3}(p.84)、p.88、p.112、p.118、p.138(BE3-7、BE3-9)、p.140(DO3-2)、p.142(E3-7)
+**p144(E3-13)** 
+> Accounts Receivable $8800 to $10000 (+1200 @ Debit)
+> Service Revenue $34000 to $35200 (+1200 @ Credit)
+> .
+> 貸 Supplies $2300 to $700 (-1600)
+> 借 Supplies Expense $0 to $1600 (+1600)
 
 * BE3-9 股本股票 不用計入net income 中
 p43 return eraning $1520
@@ -279,11 +287,12 @@ diveident 位在 借項 Debit
 調整分錄
 -> 產生報表時處理 (依主管機關要求)
 
--- 註 #15
+-- 註 #15、#16、#18
+
+
 
 借 insurence expense
 貸 prepaid insurence expense
-
 
 
 ```
