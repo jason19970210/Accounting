@@ -279,6 +279,12 @@ diveident 位在 借項 Debit
 調整分錄
 -> 產生報表時處理 (依主管機關要求)
 
+-- 註 #15
+
+借 insurence expense
+貸 prepaid insurence expense
+
+
 
 ```
 
