@@ -325,6 +325,7 @@ diveident 位在 借項 Debit
 - (3) DO IT! 2-2
 - (4) DO IT! 2-3
 - (7) E3-7
+- P2-4A、P2-4B
 
 ### 會計科目表整理
 + ### Assets
